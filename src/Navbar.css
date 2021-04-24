@@ -1,38 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Patua+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
 
-.navbar {
-    display: flex;
-    align-content: center;
-    padding-top: 20px;
-    max-width: 800px;
+.custom-nav-container {
+    width: 75%;
     margin: 0 auto;
-    /* border-bottom: 1px solid #f2f2f2; */
-    background-color: transparent;
-    /* border-bottom: 1px solid #f2f2f2; */
-    margin-bottom: 20px;
-  }
-  
-  .navbar h1 {
-    font-family: 'Patua One', cursive;
-    padding-bottom: 5px;
-    margin-bottom: 0px;
-    margin-top:0px;
-    font-size: 30pt;
-    color: black;
-  }
-  
-  .navbar .links {
-    margin-left: auto;
-    margin-top: auto;
-    padding-bottom: 5px;
-  }
-  
-  .navbar .links a {
-    color: white;
-    font-family: 'Bree Serif', serif;
-    color: #f1356d;
-    font-size: x-large;
-    text-decoration: none;
-    margin-left: 15px;
-  }
+}
 
+.custom-nav-container .navbar-brand {
+    font-size: xx-large;
+    font-family: 'Patua One', cursive;
+    color: #05386B;
+}
+
+.nav-item-custom a {
+    font-family: 'Bree Serif', serif;
+    color: #05386B;
+    font-size: large;
+}

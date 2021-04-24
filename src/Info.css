@@ -1,0 +1,11 @@
+.info-custom {
+    /* margin-top: 50px; */
+    padding-top: 25px;
+    padding-bottom: 30px;
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
