@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;700&display=swap');
+
+.hospital-info-header {
+    font-family: 'Bree Serif', serif;
+    color: #5CDB95;
+}
+
+.hospital-info-table-head {
+    font-family: 'Merriweather', serif;
+    font-weight: 300;
+    color: #379683;
+}

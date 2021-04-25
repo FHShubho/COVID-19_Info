@@ -1,11 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;700&display=swap');
+
 .info-custom {
     /* margin-top: 50px; */
     padding-top: 25px;
     padding-bottom: 30px;
 }
 
-.vcenter {
+/* .vcenter {
     display: inline-block;
     vertical-align: middle;
     float: none;
+} */
+
+.info-box-custom h3{
+    color: #05386B;
+    font-weight: bold;
+}
+
+.header-custom {
+    font-family: 'Bree Serif', serif;
+    color: #5CDB95;
+}
+
+.info-text-custom {
+    font-family: 'Merriweather', serif;
+    font-weight: 700;
+    color: #379683;
 }
