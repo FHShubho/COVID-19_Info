@@ -6,7 +6,7 @@
 
 
 
-Visit: https://covid-info-bd.netlify.app/https://covid-info-bd.netlify.app/
+Visit: [COVID-19 Info BD](https://covid-info-bd.netlify.app/)
 
 
 
