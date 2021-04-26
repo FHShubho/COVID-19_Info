@@ -1,11 +1,17 @@
-body {
-  /* margin: 0; */
-  /* background-color: #5CDB95; */
-  /* background-color: #8EE4AF; */
-  /* background-color: #EDF5E1; */
+.loading {
+  background-color: #34495E;
+  text-align: center;
+  width: 100%;
+  height: 90vh;
+  float: left;
+  color: bisque;
 }
 
-/* code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-} */
+.loading img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  margin-top: auto;
+  margin-bottom: auto;
+}
