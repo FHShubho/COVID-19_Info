@@ -1,5 +1,5 @@
 import logo2 from './images/summery.png'
-import time_logo from './images/time.png'
+//import time_logo from './images/time.png'
 import death_logo from './images/death.png'
 import test_logo from './images/lab_test.png'
 import confirmed_logo from './images/confirmed.png'
